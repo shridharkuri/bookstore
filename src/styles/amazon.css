@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  section {
+    margin-left: 20px;
+    margin-top: 5%;
+
+  }
+  .cards {
+    width: 250px;
+    padding: 20px;
+  }
+  .cards:hover {
+    box-shadow: 0 10px 10px 10px rgb(173, 170, 170);
+    cursor: pointer;
+  }
+  .image_box img {
+    width: 150px;
+    height: 200px;
+  }
+  
+  .image_box img {
+    width: 150px;
+    height: 200px;
+  }
+
+  .details button {
+    line-height: 15px;
+    padding: 10px 5px 10px 5px;
+  }
+
+  .details button:hover{
+    background-color: rgb(206, 60, 60);
+    color: white;
+    border-radius: 10px;
+  }
+  .header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .footer{
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  
+  
